@@ -97,7 +97,7 @@ export default function Home() {
       </Flex>
     </Grid>
   )
-}
+
 export default function App() {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
